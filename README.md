@@ -1,5 +1,5 @@
 # MAYRO PATRY
-Voilà notre version de Mario Party ! (intitulé Mayro Party pour éviter tout copyright éventuel)
+Voilà notre version de Mario Party ! (intitulé Mayro Patry pour éviter tout copyright éventuel)
 
 Dans ce dossier, vous trouverez:
 
