@@ -1,2 +1,2 @@
-# Mayro Patry
+# MAYRO PATRY
 Le projet super en NSI
