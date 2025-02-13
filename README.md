@@ -1,18 +1,21 @@
 # MAYRO PATRY
-Voilà notre version de Mario Party ! (intitulé Mayro Patry pour éviter tout copyright éventuel)
+Voilà notre version de Mario Party ! (intitulé Mayro Party pour éviter tout copyright éventuel)
 
 Dans ce dossier, vous trouverez:
 
 - Le cahier des charges
 - Les scripts du programme
 - Les assets utilisés dans le programme
-- Les 4 mini-jeux disponibles
+- Les 5 mini-jeux disponibles
+- Une base de donnée douteuse
+- Une map qui ne fonctionne étrangement pas (bizarre, je me demande qui devait s'en occuper)
 - Beaucoup de documentation
 
 En revanche, vous ne trouverez pas:
 
-- Le jeu de plateau (manque de temps)
+- Le jeu de plateau (manque de temps)(Non Alexandre, Antoine est juste un con tkt)
 - 500€ (désolé)
+- Un salaire à la hauteur du travail que vous faites
 
 
 
