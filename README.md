@@ -1,9 +1,9 @@
 
 ![Logo](https://raw.githubusercontent.com/AlexMaisNon/Mayro-Patry/refs/heads/mini-jeux/assets/sprites/main_menu/mayroparty.png)
 
-# MAYRO PATRY
+# MAYRO PARTY
 
-Voilà notre version de Mario Party ! (intitulé Mayro Patry pour éviter tout copyright éventuel)
+Voilà notre version de Mario Party ! (intitulé Mayro Party pour éviter tout copyright éventuel)
 
 ## Voici ce que vous trouverez dans cette branche du projet
 
