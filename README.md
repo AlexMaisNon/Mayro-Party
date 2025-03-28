@@ -23,6 +23,15 @@ Amusez-vous bien !
 
 Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu.
 
+## Instructions pour pouvoir lancer le serveur
+
+- Créer un réseau local en branchant plusieurs ordinateurs entre eux avec des câbles réseaux.
+- Lancer le programme "server.py" (se trouvant dans sources) sur l'une des machines qui jouera le rôle de serveur.
+- Lorsque le programme le demande, entrer (dans la console, ou terminal) l'adresse IP de la machine exécutant le script cité plus haut (cette adresse IP est maintenant l'adresse du serveur).
+- Lancer le jeu sur les autres machines et aller dans le menu "Multijoueur".
+- Entrer l'adresse IP du serveur tournant le script "server.py" et entrer un pseudonyme de votre choix.
+- Vous êtes maintenant connecté au serveur ! Attendez juste que les autres joueurs le rejoignent (il y a une limite de 4 joueurs, mais on peut toujours lancer une partie avec moins de 4 joueurs).
+
 ## Equipe qui travaille sur le projet
 
 - [@Guerrier-du-salami](https://github.com/Guerrier-du-salami)
