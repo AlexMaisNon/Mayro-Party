@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/AlexMaisNon/Mayro-Patry/refs/heads/mini-jeux-old/assets/sprites/main_menu/mayroparty.png)
+![Logo](https://raw.githubusercontent.com/AlexMaisNon/Mayro-Patry/refs/heads/main/data/sprites/main_menu/mayroparty.png)
 
 # MAYRO PARTY
 
