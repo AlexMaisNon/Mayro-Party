@@ -39,10 +39,11 @@ def scale_image_by(image: pygame.Surface, taille: "int | float | tuple") -> pyga
 
 # Classe du réseau
 class Network:
-    def __init__(self, adresse_serveur, pseudo):
+    def __init__(self, adresse_serveur: str, pseudo: str):
         """
-        Documentation ici
+        Constructeur de la classe Network.
         """
+
 
         self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.adresse_serveur = adresse_serveur
@@ -52,17 +53,20 @@ class Network:
         self.client.send(str.encode(pseudo))
         print("Connecté au serveur !")
 
+
     def connect(self) -> str:
         """
-        Documentation ici
+        Cette fonction permet de se connecter au serveur.
         """
 
+        # On se connecte en attendant une réponse du serveur
         self.client.connect(self.serveur)
         return self.client.recv(2048).decode()
 
+
     def send(self, data: str) -> str:
         """
-        Documentation ici
+        Cette fonction permet d'envoyer des requêtes au serveur.
         """
 
         try:
