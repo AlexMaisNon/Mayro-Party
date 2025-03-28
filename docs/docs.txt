@@ -1,0 +1,38 @@
+Il y a deux scripts principaux:
+
+main.py:
+    - Script principal du projet.
+server.py:
+    - Script essentiel pour le fonctionnement du serveur (pour faire fonctionner le réseau).
+
+
+Les mini-jeux sont stockés sous la forme d'un couple client/serveur qui permet de faciliter la création du système de réseau (ces couples sont appelés individuellement par les deux scripts du dessus):
+
+archer_ival_client.py:
+    - Script de fonctionnement pour le mini-jeu Archer-Ival, s'exécute côté client.
+archer_ival_server.py:
+    - Script de fonctionnement pour le mini-jeu Archer-Ival, s'exécute côté serveur.
+
+hexagon_heat_client.py:
+    - Script de fonctionnement pour le mini-jeu Hexagon Heat, s'exécute côté client.
+hexagon_heat_server.py:
+    - Script de fonctionnement pour le mini-jeu Hexagon Heat, s'exécute côté serveur.
+
+pushy_penguins_client.py:
+    - Script de fonctionnement pour le mini-jeu Pushy Penguins, s'exécute côté client.
+pushy_penguins_server.py:
+    - Script de fonctionnement pour le mini-jeu Pushy Penguins, s'exécute côté serveur.
+
+speed_hockey_client.py:
+    - Script de fonctionnement pour le mini-jeu Speed Hockey, s'exécute côté client.
+speed_hockey_server.py:
+    - Script de fonctionnement pour le mini-jeu Speed Hockey, s'exécute côté serveur.
+
+trace_race_client.py:
+    - Script de fonctionnement pour le mini-jeu Trace Race, s'exécute côté client.
+trace_race_server.py:
+    - Script de fonctionnement pour le mini-jeu Trace Race, s'exécute côté serveur.
+
+
+
+Il y a enfin un script utils.py, qui contient quelques fonctions / classes pratiques (ce script aurait dû être plus lourd grâce à une bonne factorisation du code, qui devrait arriver prochainement).
