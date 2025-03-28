@@ -31,7 +31,8 @@ Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu.
 
 ## Infos importantes concernant les droits d'auteurs
 
-- Les sprites des personnages ont été créés par Nintendo (attention au copyright), cependant, certains sprites non officiels ont été créé soit par des artistes sur Internet (notamment ceux de [The Spriters Resource](https://www.spriters-resource.com/custom_edited/)), soit modifiés par nous.
+- Les sprites des personnages ont été créé par Nintendo (attention au copyright), cependant, certains sprites non officiels ont été créé soit par des artistes sur Internet (notamment ceux de [The Spriters Resource](https://www.spriters-resource.com/custom_edited/)), soit modifiés par nous.
+- Les musiques et les bruitages ont également été créé par Nintendo.
 - Une grande majorité des sprites (surtout ceux des mini-jeux) ont été réalisé par nos soins, il s'agit donc de créations originales.
 - Le code a été entièrement écrit par nous.
 - Il n'y a eu aucune utilisation de l'IA dans ce projet.
