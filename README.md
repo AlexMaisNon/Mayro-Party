@@ -23,6 +23,7 @@ Amusez-vous bien !
 
 Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu.
 
+
 ## Instructions pour pouvoir lancer le serveur
 
 - Créer un réseau local en branchant plusieurs ordinateurs entre eux avec des câbles réseaux.
@@ -31,6 +32,15 @@ Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu.
 - Lancer le jeu sur les autres machines et aller dans le menu "Multijoueur".
 - Entrer l'adresse IP du serveur tournant le script "server.py" et entrer un pseudonyme de votre choix.
 - Vous êtes maintenant connecté au serveur ! Attendez juste que les autres joueurs le rejoignent (il y a une limite de 4 joueurs, mais on peut toujours lancer une partie avec moins de 4 joueurs).
+
+
+## Infos importantes concernant les droits d'auteurs
+
+- Les sprites des personnages ont été créés par Nintendo (attention au copyright), cependant, certains sprites non officiels ont été créé soit par des artistes sur Internet (notamment ceux de [The Spriters Resource](https://www.spriters-resource.com/custom_edited/)), soit modifiés par nous.
+- Une grande majorité des sprites (surtout ceux des mini-jeux) ont été réalisé par nos soins, donc des créations originales.
+- Le code a été entièrement écrit par nous.
+- Il n'y a eu aucune utilisation de l'IA dans ce projet.
+
 
 ## Equipe qui travaille sur le projet
 
