@@ -10,13 +10,14 @@ Ce projet est un jeu vidéo multi-joueur, composé d’un plateau et de 5 mini-j
 ## Installation
 
 - Installez Python
-- Installez les bibliothèques requises avec la commande ci-dessous:
+- Téléchargez le repo
+- Installez les bibliothèques requises avec la commande ci-dessous (dans le dossier du requierement.txt):
 
 ```bash
   pip install -r requirements.txt
 ```
 
-Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu.
+- Lancez le programme "main.py" (se trouvant dans sources) pour lancer le jeu. Vous pouvez utiliser n'importe quel IDE Python pour le faire.
 
 
 ## Instructions pour pouvoir lancer le serveur
