@@ -805,7 +805,7 @@ class Server:
                 objet.appliquer_velocite()
 
                 # On supprime toutes les flèches qui partent trop loin en hauteur
-                if objet.get_pos()[1] < 250:
+                if objet in self.objets and objet.get_pos()[1] < 250:
                     self.objets.remove(objet)
 
             # Comportement des ennemis (même que celui de l'ia)
